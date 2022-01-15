@@ -472,7 +472,6 @@ input[type="checkbox"]:checked {
   .container:hover,
   .container:focus {
     transform: scale(1.04);
-    text-decoration: underline;
   }
 
   .portfolio__link {
